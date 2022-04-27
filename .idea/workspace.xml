@@ -32,7 +32,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.bridgelabz.flipcoins">
+  <component name="RunManager" selected="Application.Leapyear">
+    <configuration name="Leapyear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Leapyear" />
+      <module name="Basic_Core_Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.bridgelabz.flipcoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.flipcoins" />
       <module name="Basic_Core_Program" />
@@ -54,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leapyear" />
         <item itemvalue="Application.com.bridgelabz.flipcoins" />
         <item itemvalue="Application.flipcoins" />
       </list>
